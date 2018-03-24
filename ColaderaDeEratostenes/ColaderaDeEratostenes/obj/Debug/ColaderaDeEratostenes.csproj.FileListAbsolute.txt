@@ -1,0 +1,10 @@
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColaderaDeEratostenes\ColaderaDeEratostenes\bin\Debug\ColaderaDeEratostenes.exe.config
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColaderaDeEratostenes\ColaderaDeEratostenes\bin\Debug\ColaderaDeEratostenes.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColaderaDeEratostenes\ColaderaDeEratostenes\bin\Debug\ColaderaDeEratostenes.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColaderaDeEratostenes\ColaderaDeEratostenes\obj\Debug\ColaderaDeEratostenes.csprojResolveAssemblyReference.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColaderaDeEratostenes\ColaderaDeEratostenes\obj\Debug\ColaderaDeEratostenes.Form1.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColaderaDeEratostenes\ColaderaDeEratostenes\obj\Debug\ColaderaDeEratostenes.Properties.Resources.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColaderaDeEratostenes\ColaderaDeEratostenes\obj\Debug\ColaderaDeEratostenes.csproj.GenerateResource.Cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColaderaDeEratostenes\ColaderaDeEratostenes\obj\Debug\ColaderaDeEratostenes.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColaderaDeEratostenes\ColaderaDeEratostenes\obj\Debug\ColaderaDeEratostenes.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\ColaderaDeEratostenes\ColaderaDeEratostenes\obj\Debug\ColaderaDeEratostenes.pdb
